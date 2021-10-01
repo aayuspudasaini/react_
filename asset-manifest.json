@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aayuspudasaini/react_.git/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/aayuspudasaini/react_.git/static/js/main.3eab4612.chunk.js",
+    "main.js.map": "/aayuspudasaini/react_.git/static/js/main.3eab4612.chunk.js.map",
+    "runtime-main.js": "/aayuspudasaini/react_.git/static/js/runtime-main.40add189.js",
+    "runtime-main.js.map": "/aayuspudasaini/react_.git/static/js/runtime-main.40add189.js.map",
+    "static/css/2.f2512455.chunk.css": "/aayuspudasaini/react_.git/static/css/2.f2512455.chunk.css",
+    "static/js/2.5ad5c62e.chunk.js": "/aayuspudasaini/react_.git/static/js/2.5ad5c62e.chunk.js",
+    "static/js/2.5ad5c62e.chunk.js.map": "/aayuspudasaini/react_.git/static/js/2.5ad5c62e.chunk.js.map",
+    "static/js/3.d518d775.chunk.js": "/aayuspudasaini/react_.git/static/js/3.d518d775.chunk.js",
+    "static/js/3.d518d775.chunk.js.map": "/aayuspudasaini/react_.git/static/js/3.d518d775.chunk.js.map",
+    "index.html": "/aayuspudasaini/react_.git/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/aayuspudasaini/react_.git/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/aayuspudasaini/react_.git/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.5ad5c62e.chunk.js.LICENSE.txt": "/aayuspudasaini/react_.git/static/js/2.5ad5c62e.chunk.js.LICENSE.txt",
+    "static/media/a.5c9eedc0.png": "/aayuspudasaini/react_.git/static/media/a.5c9eedc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40add189.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.5ad5c62e.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.3eab4612.chunk.js"
+  ]
+}
